@@ -21,7 +21,7 @@ Built with MERN stack. Overall, the app offers the possibility to perform these 
 
 ## Visual
 
-![For E-Commerce](/clientpublic//images/favicon.ico)
+![For E-Commerce](/client/public/images/favicon.ico)
 Format: ![React E-commerce logo](https://walf-dev.github.io/)
 
 
