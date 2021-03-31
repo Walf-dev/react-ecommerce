@@ -65,7 +65,7 @@ const Footer = () => {
           </div>
         </div>
         <div className='footer-copyright'>
-          <span>© {new Date().getFullYear()} Walf-Dev MERN E-Commerce</span>
+          <span>© {new Date().getFullYear()} Walf-Dev React E-Commerce</span>
         </div>
         <ul className='footer-social-item'>
           <li>

@@ -1,6 +1,6 @@
-# REACT E-commerce
+# REACT E-commerce🛒
 
-## Description
+## Description👨‍🏫
 
 Built with MERN stack. Overall, the app offers the possibility to perform these actions: 
 
@@ -9,22 +9,32 @@ Built with MERN stack. Overall, the app offers the possibility to perform these 
 3. Administrators manage and control the entire store components 
 
 
-* features:
+* Features👨‍🔬
+  some major features are:
   * Node provides the backend environment for the whole app
   * Express middleware is used to handle requests and routes
   * Mongoose schemas are use to model the application data
   * React for displaying User Interface components
   * Redux to manage application's state
   * Redux Thunk middleware to handle asynchronous redux actions
+  * Webpack the module bundler. Optimize the weight of our source code and thus contribute to the good app performance
+  * Chalk to beautify the console's response
+  * Redux to manage application's state
+  * Passport for authentication
+  * AWS-SDK simpliﬁes use of AWS Services by providing a set of libraries
+  * Axios makes it easy to send asynchronous HTTP requests to REST endpoints and perform CRUD operations
+  * Mobile-Detect will detect the device by comparing patterns against a given User-Agent string
+  * Tsscmp prevents timing attacks using Brad Hill's Double HMAC pattern to perform secure string comparison
 
 
 
-## Visual
 
-![For E-Commerce](/client/public/images/favicon.ico)
+## Visual📸
+
+![For E-Commerce](/client/public/images/social-preview.png)
 
 
-## Install
+## Installation💻
 
 Some basic Git commands are:
 
@@ -34,7 +44,21 @@ $ cd project
 $ npm install
 ```
 
-## Setup
+
+## Usage🥋
+
+```
+For anyone who wants to learn MERN stack by doing real projects.
+```
+
+
+## Contributing🧤
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+
+## Setup⚙
 
 ```
  Create .env file that include:
@@ -48,33 +72,33 @@ $ npm install
   * AWS_ACCESS_KEY_ID & AWS_SECRET_ACCESS_KEY & AWS_REGION & AWS_BUCKET_NAME => AWS configuration
 ```
 
-## Heroku Deployment
+## Heroku Deployment✨
 
 ```
 > Create a Procfile in the root directory of your application with the following command **web: npm run start:production**
 ```
 
 
-## Simple build for production
+## Simple build for production🔨
 
 ```
 $ npm run production
 ```
 
-## Run the application for development
+## Run the application for development🧪
 
 ```
 $ npm start
 ```
 
-## Run the application for production
+## Run the application for production🛒
 
 ```
 $ npm run start:production
 ```
 
 
-## Languages & tools
+## Languages & tools💡
 
 - [Node](https://nodejs.org/en/)
 
