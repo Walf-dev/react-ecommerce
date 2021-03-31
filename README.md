@@ -9,7 +9,7 @@ Built with MERN stack. Overall, the app offers the possibility to perform these 
 3. Administrators manage and control the entire store components 
 
 
-* Features👨‍🔬
+* Features👨‍🔬\
   some major features are:
   * Node provides the backend environment for the whole app
   * Express middleware is used to handle requests and routes
